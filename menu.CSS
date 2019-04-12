@@ -1,6 +1,6 @@
 @font-face {
-    font-family: fffff; /* Гарнитура шрифта */
-    src: url(14756.ttf); /* Путь к файлу со шрифтом */
+    font-family: fffff;
+    src: url(14756.ttf);
 }
 .nav {
     display: block;
